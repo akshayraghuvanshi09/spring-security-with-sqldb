@@ -13,3 +13,4 @@ Note : If you are using spring boot 3.1.x version then please do the below code 
                 .httpBasic(Customizer.withDefaults()).build();
     }
 # spring-security-with-sqldb
+# spring-security-with-jwt
